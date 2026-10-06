@@ -4,7 +4,7 @@
 
 ## Growth hypothesis
 
-FinWise's biggest growth problem is FinWise's biggest growth problem is that growth depends entirely on paid acquisition, while only about 2% of trials convert to paid regardless of spend or engagement., because Because trial users come in alone through paid channels and use FinWise as a single-player tool, even though small-business finance involves accountants, bookkeepers and partners..
+FinWise's biggest growth problem is that growth depends entirely on paid acquisition, while only about 2% of trials convert to paid regardless of spend or engagement, because trial users come in alone through paid channels and use FinWise as a single-player tool, even though small-business finance involves accountants, bookkeepers and partners.
 
 _Working notes: I think FinWise's biggest problem is activation. Most trial users never reach the product's core value (seeing their own finances organized and useful), so they don't convert. Those who do convert often haven't built a habit, so they churn. Evidence: 2% trial-to-paid is very low for a reverse trial - if almost no one converts after experiencing the full trial, they likely avren't experiencing anything at all.
 60% of paying customers churn within a year. Even the people who pay aren't getting lasting value.
