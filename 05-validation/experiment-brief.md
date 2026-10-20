@@ -18,9 +18,9 @@ If we improve the quality of the financial forecasts (and therefore value) for F
 
 _Experiment: Reduce churn by showing higher quality forecast insights, Improve trial to paid conversion for new users and improve retention among existing users_
 
-_Testing A change to the Monday email that shows forecast confidence slipping, for example (71% confident: 2 minute review), prompting users to review and confirm transactions (which will therefore improve their forecasts). Three versions of this email prompt. on Users who already have imported financial data and have used the financial modeling feature. Current experience: Users see a financial model/forecast after they import their financial data._
+_Testing multiple prompt changes to the Monday email that shows forecast confidence slipping, for example (71% confident: 2 minute review), prompting users to review and confirm transactions (which will therefore improve their forecasts) on Users who already have imported financial data and have used the financial modeling feature. Current experience: Users see a financial model/forecast after they import their financial data, but the quality of the forecast declines over time if they do not continue to curate their transaction data; Monday email summary does not prompt this curation behavior._
 
-_Predicted outcome: Weekly active sessions increase as MAB identifies and scales the highest-performing prompt variant within two weeks. If successful: Lock in the winning prompt variant and test new variables such as timing and frequency. If unsuccessful: Review if the reminders created friction. Test a different re-engagement mechanism entirely.._
+_Predicted outcome: Weekly active sessions increase as MAB identifies and scales the highest-performing prompt variant within two weeks. If successful: Lock in the winning prompt variant and test new variables such as timing and frequency. If unsuccessful: Review if the reminders created friction. Test a different re-engagement mechanism entirely._
 
 _____
 
