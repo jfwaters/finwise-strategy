@@ -25,11 +25,11 @@ This repo is my final project for the **Product Experimentation Certification** 
 
 ## The Story
 
-**Growth thesis:** _one line — the through-line from bet to model._
+**Growth thesis:** _FinWise doesn’t lose trial users because they never reach the product; it loses them because getting set up never pays off. So a free tier should give small businesses the habit, and the paywall should sit at Financial Modeling, the moment the product turns their numbers into decisions._
 
-- **One friction.** _the hard part; what fought you._
-- **One Aha.** _the moment the strategy clicked._
-- **Takeaways.** _what stuck about experimentation as a system._
+- **One friction.** _The data fought my starting hypothesis. I expected conversion to rise with activation, but it held at about 2% for 13 months while Import and Modeling usage swung by 15–47 points. Import showed no correlation with conversion (r = −0.05), and Modeling only a weak, non-significant one (r = 0.24). The hard part was letting go of the story I’d brought in, and accepting that monthly totals could weaken a user-level claim but not settle it._
+- **One Aha.** _When I realized that 40–58% of users were already reaching the “activation” features while conversion stayed flat, the problem moved. It wasn’t getting users in the door; it was what happened after. That changed the question from “how do we activate more users?” to “where is the moment worth paying for?” The answer was to put the paywall at Modeling instead of at a trial deadline._
+- **Takeaways.** _Experimentation works as a loop: bet, indicator, evidence, revised bet, test design, model. The pricing model comes out of what the tests show._
 
 ---
 
