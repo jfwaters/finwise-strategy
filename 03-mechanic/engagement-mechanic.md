@@ -22,5 +22,5 @@ _____
 ## Wireframe
 
 ![Wireframe screenshot](./gamification_forecast_confidence.png)
-
+![Wireframe screenshot](./gamification_forecast_confidence_review.png)
 _____
