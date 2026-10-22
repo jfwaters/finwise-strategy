@@ -1,8 +1,8 @@
 # FinWise, A Product-Led Growth Strategy
 
-> _(one-line growth thesis)_
+> _Turning FinWise's 2% trial conversion into a compounding, product-led growth motion._
 
-_Your name · Product Experimentation · date_
+_Julie Waters · Product Experimentation · October 2026_
 
 This repo is my final project for the **Product Experimentation Certification** — a growth strategy for FinWise. One folder per module; this README is **The Story** that ties them together, and the source for the pitch you generate with the **Final Project Deliverables Prompt Generator**.
 
